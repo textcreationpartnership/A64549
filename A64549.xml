@@ -1,0 +1,1052 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An English prosodia to be learned immediately after the Accidence, in order to the better learning of Propria quæ maribus, as in præsenti, and quæ genus. By J. T. A.B.</title>
+            <author>Thomas, James, b. 1657 or 8.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 54 KB of XML-encoded text transcribed from 16 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A64549</idno>
+            <idno type="STC">Wing T964A</idno>
+            <idno type="STC">ESTC R220873</idno>
+            <idno type="EEBO-CITATION">99832258</idno>
+            <idno type="PROQUEST">99832258</idno>
+            <idno type="VID">36730</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A64549)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 36730)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2138:2)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An English prosodia to be learned immediately after the Accidence, in order to the better learning of Propria quæ maribus, as in præsenti, and quæ genus. By J. T. A.B.</title>
+                  <author>Thomas, James, b. 1657 or 8.</author>
+               </titleStmt>
+               <extent>[12], 18, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for the author, and are to be had at Robert Whites in Trinity Court near Aldersgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The dedication is signed: James Thomas.</note>
+                  <note>Caption title on p. 1 reads: Prosodia.</note>
+                  <note>The final leaf contains a postscript.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Latin language --  Grammar --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:36730:1"/>
+            <pb facs="tcp:36730:1" rendition="simple:additions"/>
+            <p>An ENGLISH PROSODIA, To be Learned immediately after the <hi>Accidence,</hi> in order to the better Learn<g ref="char:EOLhyphen"/>ing of <hi>Propria quae maribus, As in praeſenti,</hi> and <hi>Quae genus.</hi>
+            </p>
+            <p>By <hi>J. T.</hi> A. B.</p>
+            <q>Nec minimum meruere decus veſtigia Graeca Auſi Deſerere.—<bibl>
+                  <hi>Hor.</hi>
+               </bibl>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for the Author, and are to be had at <hi>Robert Whites</hi> in <hi>Trinity Court</hi> near <hi>Alderſgate,</hi> 1685.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:36730:2"/>
+            <pb facs="tcp:36730:2"/>
+            <head>To my Much Honoured Maſter, Mr. <hi>Joſeph Harvey,</hi> Maſter of the Free-School in <hi>Hereford.</hi>
+            </head>
+            <opener>
+               <salute>Honoured Sir,</salute>
+            </opener>
+            <p>TO You are due theſe Firſt-Fruits of my Learn<g ref="char:EOLhyphen"/>ing; By whoſe Bounty and Care, (together with God's Bleſſing) I accompliſht my <hi>Ty<g ref="char:EOLhyphen"/>rocinium</hi> under You, in the ſpace of half an Appren<g ref="char:EOLhyphen"/>ticeſhip. And 'tis to You, Sir, that I muſt ſtand in<g ref="char:EOLhyphen"/>debted for all thoſe Superſtructures, which either alrea<g ref="char:EOLhyphen"/>dy are, or hereafter ſhall be built upon that good Foun<g ref="char:EOLhyphen"/>dation that You have laid. This is a Tract I at firſt Compoſed for a Kinſman, committed to my Care; upon whom I try'd the Experiment, and found it to anſwer my utmoſt Expectation. And hoping it may prove Be<g ref="char:EOLhyphen"/>neficial to the Publick, I have ventured to Print it, From thoſe I have diſcourſed about it, I have met with no Objections againſt it, but what ſeem to ariſe from an unwillingneſs to forſake the Old Way: But if the Gentlemen of our Faculty would but pleaſe to conſider,
+<pb facs="tcp:36730:3"/> That no one man knows all things: And that no Art is yet arriv'd to the height of its Perfection, they might, perhaps, allow me to ſpy out one thing, overlookt by our Wiſe Predeceſſors, without the imputation of Ar<g ref="char:EOLhyphen"/>rogance.</p>
+            <p>Sir, I have made bold to prefix Your Name to it; without the leaſt Intimation before hand; Becauſe here<g ref="char:EOLhyphen"/>by You are no wayes obliged to vindicate my Errors; Which if You pleaſe to let me know, by my Correcting of them, You ſhall find that I am ſtill,</p>
+            <closer>
+               <salute>Honoured Sir,</salute>
+               <signed>Your Moſt Obedient Scholar James Thomas.</signed>
+               <dateline>Stoke-Newington, <date>
+                     <hi>Dec.</hi> 7. 1684</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:36730:3"/>
+            <head>The PREFACE.</head>
+            <p>THE Broad High Way through the Accidence, <hi>Pro<g ref="char:EOLhyphen"/>pria quae maribus, As in praeſenti, Quae genus, Syntaxis</hi> and <hi>Figura,</hi> to <hi>Proſodia,</hi> is ſo frequented a road, and trodden by all Schoolmaſters; that I never met with, or heard of above one, who attempted a better way. And therefore I, who now endeavour to alter the Path, may expect to meet with as many Diſcouragements, as did <hi>Co<g ref="char:EOLhyphen"/>lumbus,</hi> although for the diſcovery of the <hi>Indies:</hi> But like him, I have met with one, upon whoſe Promiſe of Incou<g ref="char:EOLhyphen"/>ragement in his School, I have ventured my Reputation.</p>
+            <p>The Reaſon of this my undertaking is, <hi>Propria quae ma<g ref="char:EOLhyphen"/>ribus, As in praeſenti,</hi> and <hi>Quae genus,</hi> are all made in Verſe. And neither I nor my Friends can imagine, how a Child not underſtanding Verſe, ſhould ſooner learn, or longer retain any Treatiſe ſo Compoſed. Children or Men, firſt learning Languages are taught to learn otherwiſe; Wit<g ref="char:EOLhyphen"/>neſs the Primar, Accidence, and all the Grammars of For<g ref="char:EOLhyphen"/>reign Languages. Their being made in Verſe, ſeems to me a diſadvantage, to a Child that underſtands not the reaſon of a Verſe, by reaſon of the variety of Phraſes for the ſame ex<g ref="char:EOLhyphen"/>preſſion, as <hi>Faemineo generi tribuuntur, Faeminei generis, ſunt Muliebre genus; Gaudent foemineis,</hi> all ſignifying the ſame: And the miſplacing of words, as,</p>
+            <pb facs="tcp:36730:4"/>
+            <p>Nomen<seg rend="below">1</seg>, creſcentis<seg rend="below">9</seg>, penultima<seg rend="below">6</seg> ſi<seg rend="below">5</seg> genitivi<seg rend="below">8</seg>, Syllaba<seg rend="below">7</seg> acuta<seg rend="below">11</seg> ſonat<seg rend="below">10</seg>, velut<seg rend="below">12</seg> haec<seg rend="below">13</seg> pietas<seg rend="below">14</seg> pietatis<seg rend="below">15</seg>, Virtus<seg rend="below">16</seg> virtutis<seg rend="below">17</seg> monſtrant<seg rend="below">18</seg>, genus<seg rend="below">4</seg> eſt<seg rend="below">2</seg> muliebre<seg rend="below">3</seg>.</p>
+            <p>which ſhould be placed as the Figures under them direct; Which two things very much confound the Childs underſtand<g ref="char:EOLhyphen"/>ing, and baulk his Memory; Both which Inconveniences. will I think, be at leaſt removed, if not turned to advan<g ref="char:EOLhyphen"/>tages, by learning the reaſon of a Verſe, before they enter upon <hi>Propria quae maribus, As in praeſenti</hi> and <hi>Quae genus:</hi> For knowing the quantities of ſuch and ſuch words, a Child may conclude, that this or that word will not ſtand in this or that place, becauſe it will make the Verſe faulty, which will be no ſmall help to his Memory, which is much ſtronger, when the underſtanding keeps it company, than when 'tis a<g ref="char:EOLhyphen"/>lone. That Children may be taught, not only to pronounce thoſe words rightly, which are either in <hi>Propria quae mari<g ref="char:EOLhyphen"/>bus, &amp;c,</hi> or elſewhere; But alſo to get them perfectly with<g ref="char:EOLhyphen"/>out Book, though they underſtand not the Reaſons of either Verſe or Quantity. None can deny, without giving the lye to the general experience of Schools, all <hi>England</hi> over at leaſt. But ſhould that Caſheir this Tract as needleſs, I think, by the ſame Reaſon, not only <hi>Lilly,</hi> and all the Grammarians, but alſo all the Claſſical <hi>Roman</hi> and <hi>Greek</hi> Authors might be baniſhed all Schools, if the Maſters ſhould but think it convenient to teach Children to ſpeak Latin by roat, in their common Diſcourſe.</p>
+            <p>In this my <hi>Proſodia,</hi> I have wholly followed neither <hi>Lilly</hi> nor <hi>Fabricius:</hi> And for my Warrant for deſerting both, where Examples are wanting in <hi>Smetius,</hi> I have ſet them
+<pb facs="tcp:36730:4"/> down of my own; But when they are to be had thence, I omit the Tranſcribing of them, unleſs in a point that I think may meet with more than common Oppoſition, as in the caſe of <hi>Polymneſtor, Page 10.</hi>
+            </p>
+            <p>I expect to be oppoſed by three Figures, namely, <hi>Caeſura, Syſtole</hi> and <hi>Diaſtole;</hi> which (they ſay) make Syllables ſhort, that are long by Nature; and Syllables long, that are ſhort by Nature.</p>
+            <p>This Nature makes great noiſe among Grammarians, but I think to little purpoſe; for where is any ſuch thing among the Poets, unleſs by it they mean their Authority. If they mean any thing elſe, what natural Reaſon can they give for the Quantities of <hi>Do</hi> and its Compounds? Why ſhould the Characteriſtic Syllable of the firſt Conjugation be alwayes ſhort in them? And why ſhould not (<hi>er</hi>) in <hi>Pater</hi> and <hi>Ma<g ref="char:EOLhyphen"/>ter</hi> be alwayes long, ſeeing in <hi>Greek</hi> 'tis <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> with their long (<hi>e eta'</hi>) and a natural Reaſon I would fain have too, for all the Exceptions to Derivation, you may find <hi>Page 12, 13, 14, 15,</hi> If 'tis ſaid that thoſe are excepted from the General Rules: Then I'll ſay, theſe may be excected with as much Reaſon, without the Patronage of either of thoſe Figures. And if 'tis ſaid, the Poets bare Authority, may ſuffice for firſt and middle Syllables, but not for laſt; Becauſe there are Rules given for all of them: I anſwer, either they made their Verſes by our Rules, or elſe, our Rules were made by their Verſes. The firſt can't be ſaid, <hi>Qaintilian</hi> being the firſt School-Maſter in <hi>Rome,</hi> long before whoſe time, there were Latin Verſes. Nor is any ſpoken Language a ſlave to the Grammars, that are made of it: But the Grammars are to be reviſed, corrected, and enlarged ever now and then, according to the Pleaſure of thoſe that ſpeak, and alter the Language. As may appear from this, that formerly we had no <hi>Neuter Gender</hi> in our Engliſh Tongue;
+<pb facs="tcp:36730:5"/> but whatſoever was not of the <hi>Feminine Gender,</hi> as being the Female, was of the <hi>Maſculine;</hi> He, Him and His, being applyed to all other Nouns whatſoever, till now of late Years. If the ſecond be granted, then the unavoidable con<g ref="char:EOLhyphen"/>ſequence will be, that Grammar Rules are not ſo perfect and compleat, as not to admit of Alterations or Additions, if any thing either thwarting, or not comprehended under them, be met with in Claſſical Authors.</p>
+            <p>Nor have I rejected theſe Figures without the Authority of one Grammarian, as whoſoever ſhall pleaſe to peruſe <hi>Fa<g ref="char:EOLhyphen"/>bricius's Proſodia,</hi> bound up with <hi>Smetius,</hi> will find, tho' he gives no Reaſon for his ſo doing.</p>
+            <p>Another Oppoſition is, that Children are not caepable of un<g ref="char:EOLhyphen"/>derſtanding Rules; That they are to ſpend their time in get<g ref="char:EOLhyphen"/>ting things without Book, (without underſtanding what they do); That the meaning of Rules will come of courſe, when they are arriv'd to a competent degree of Knowledge.</p>
+            <p>To this I anſwer, Childrens Memory, I take to be their greateſt advantage in this point; For thereby they are capa<g ref="char:EOLhyphen"/>ble of retaining whatever Inſtructions or Documents are de<g ref="char:EOLhyphen"/>liver'd to them by their Teachers, as well as the ordinary Rules.</p>
+            <p>The Rules which are for Obſervation only, and not for Imitation, I have noted with an Aſterisk. Moſt of which, if you pleaſe, you may call <hi>Vitia Poeſe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s,</hi> Blots in Poetry.</p>
+            <p>For the avoiding of Parentheſis in the Treatiſe, I have, by way of Introduction, prefixt a ſhort Advertiſement of the Letters, <hi>&amp;c.</hi>
+            </p>
+            <p>The <hi>Latin</hi> Letters are commonly reckon'd to be Twenty Three, <hi>Viz.</hi>
+            </p>
+            <p>abcdefghijklmnopqrſstuvxyz.</p>
+            <pb facs="tcp:36730:5"/>
+            <p>Theſe Letters are divided into Vowels and Conſonants.</p>
+            <p>A Vowel is a Letter that makes a full and perfect ſound of it ſelf, as a; And 'tis ſo called from <hi>vox vocis</hi> a voice or ſound, becauſe without the help of another letter it makes a voice or ſound.</p>
+            <p>The Vowels are in number ſix, namely, <hi>aeiouy.</hi>
+            </p>
+            <p>Two of which are ſometimes Conſonants, namely <hi>j</hi> and <hi>v.</hi> Out of the Vowels are made Dipthongs.</p>
+            <p>A Dipthong is the coming together of two Vowels, which make but one ſound. From <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>bis</hi> twice, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſono</hi> to ſound, becauſe in a Dipthong is as it were a double ſound.</p>
+            <p>There are five Dipthongs, namely, Firſt, (<hi>ae</hi>) which are join'd together thus (ae), and is pronounced like a ſingle (<hi>e</hi>) as <hi>aeternus</hi> eternal, like <hi>eternus.</hi> Secondly, (<hi>au</hi>) as <hi>audio</hi> I hear. Thirdly, (<hi>oe</hi>) which are join'd together thus (<hi>oe</hi>) and pronounc'd likewiſe like ſingle (<hi>e</hi>), as <hi>coelum</hi> Heaven, like <hi>celum.</hi> Fourthly, (<hi>ei</hi>) pronounc'd like (<hi>i</hi> long,) as <hi>hei</hi> alas! like <hi>hi.</hi> Fifthly, (<hi>eu</hi>) pronounc'd as (<hi>u</hi> long), as euge well done, like <hi>uge.</hi>
+            </p>
+            <p>A Conſonant is a Letter that makes no ſound of it ſelf, that is, without the help of a Vowel; as the letter (<hi>b</hi>) put alone, makes no ſound. 'Tis call'd a Conſonant from <hi>con</hi> with, and <hi>ſono</hi> to ſound, a letter that ſounds with another.</p>
+            <p>The Conſonants are ſeventeen, namely, <hi>bcdfghklmnpqrſtxz.</hi>
+            </p>
+            <list>
+               <pb facs="tcp:36730:6"/>
+               <head>This may be left unlearnt till the Child come to <hi>Poſition,</hi> and then the one will explain the other.</head>
+               <item>The Conſonants are divided into Mutes and half Vowels.</item>
+               <item>A Mute is a Conſonant that has no ſound at all, without a Vowel; from <hi>mutus</hi> dumb, or that cannot ſpeak, becauſe without the help of a Vowel, it muſt be mute and ſilent.</item>
+               <item>There are nine Mutes, namely, <hi>bcdfgkpqt.</hi>
+               </item>
+               <item>A half-Vowel is a Conſonant that makes a kind of imperfect ſound without the help of a Vowel.</item>
+               <item>There are ſeven half-Vowels, namely, <hi>lmnrſxz.</hi>
+               </item>
+               <item>Of which five are Liquids, namely, <hi>lmnrſ.</hi>
+               </item>
+               <item>A Liquid is a Conſonant, that coming after a Mute does <hi>liqueſcere</hi> or melt, that is, it ſometimes loſes the power of making the foregoing Syllable long by <hi>Poſition.</hi>
+               </item>
+               <item>M and n, as the <hi>Oxford</hi> Grammar notes, are ne<g ref="char:EOLhyphen"/>ver Liquids but in <hi>Greek</hi> words.</item>
+               <item>S was a Liquid amongſt the Ancients, but 'tis not allowable to make it ſo now.</item>
+               <item>
+                  <hi>X z</hi> and j Conſonant, are double Conſonants.</item>
+               <item>
+                  <hi>K y</hi> and <hi>z</hi> are never uſed in pure Latin words.</item>
+               <item>
+                  <hi>H</hi> is ſeldom reckon'd, or has the force of a Letter.</item>
+            </list>
+            <p>Out of Letters are made Syllables.</p>
+            <p>A Syllable is the Pronouncing of one or more Letters at one breath, as <hi>Gram-ma-ti-ca</hi> hath four Syllables in it, being Pronounced at four ſeveral breaths, from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>com<g ref="char:EOLhyphen"/>prehendo</hi> to comprehend, becauſe it commonly comprehends more Letters than one.</p>
+            <p>
+               <hi>Protheſis</hi> is the putting of a Letter or Syllable to the be<g ref="char:EOLhyphen"/>ginning of a word, aes <hi>tetuli</hi> for <hi>tuli</hi> I have born; from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ante</hi> before, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>pono</hi> to put.</p>
+            <pb facs="tcp:36730:6"/>
+            <p>
+               <hi>Aphaereſis</hi> is the taking away of a Letter or Syllable from the beginning of a word, as <hi>temnere</hi> for <hi>contemnere</hi> to con<g ref="char:EOLhyphen"/>temn; from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ab</hi> from, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>tollo</hi> to take.</p>
+            <p>
+               <hi>Epentheſis</hi> is the putting of a Letter or Syllable into the middle of a word, as <hi>relligio</hi> for <hi>religio</hi> Religion; from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> in, <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>pono</hi> to put.</p>
+            <p>
+               <hi>Syncope</hi> is the taking away of a Letter or Syllable out of the middle of a word, as <hi>amâſti</hi> for <hi>amaviſiti,</hi> thou haſt loved; from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>con</hi> with, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſcindo</hi> to cut.</p>
+            <p>
+               <hi>Paragoge</hi> is the putting of a Letter or Syllable to the end of a word, as <hi>dicier</hi> for <hi>dici</hi> to be ſaid; from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>pro<g ref="char:EOLhyphen"/>ducere,</hi> to make long.</p>
+            <p>
+               <hi>Apocope</hi> is the taking of a Letter or Syllable from the end of a word, as <hi>ingeni</hi> for <hi>ingenii</hi> of a wit; from <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ab</hi> from, and <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> 
+               <hi>ſcindo</hi> to cut.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:36730:7"/>
+            <pb n="1" facs="tcp:36730:7"/>
+            <head>PROSODIA,</head>
+            <p>PRoſodia is an Art that teaches the right pronunciation of words, according to their Proper Times or Quantities.</p>
+            <p>Time or Quantity is the meaſure of a Syllable in pronouncing.</p>
+            <p>Quantity is twofold, long and ſhort.</p>
+            <p>The long Quantity is noted thus (¯) as ſpēs.</p>
+            <p>The ſhort Quantity is noted thus ˘, as brĕvĭs.</p>
+            <p>Out of Syllables are made Feet.</p>
+            <p>A Foot is the ſetting together of two or more Syllables, ac<g ref="char:EOLhyphen"/>cording to the obſervation of their Quantities.</p>
+            <p>Feet are either Diſſyllables, Triſyllables, or Tetraſyllables, that is, of two ſyllables, three ſyllables, or four ſyllables.</p>
+            <p>Of each which, we ſhall at Preſent mention but one or two.</p>
+            <p>A Spondee, is a foot, conſiſting of two long Syllables, as virtūs.</p>
+            <p>A Dactyl is a foot, conſiſting of three ſyllables, the firſt long, the laſt two ſhort, as ſcrībĕrĕ.</p>
+            <p>* Which foot is ſometimes put for a Dactyl.</p>
+            <p>A Proceleuſmatick is a foot conſiſting of four ſhort ſyllables, as tenŭerăt.</p>
+            <p>* Which is likewiſe ſometimes put for a Dactyl.</p>
+            <p>Out of feet are made Verſes.</p>
+            <p>A Verſe is a ſpeech, bound to a juſt and lawful number of Feet.</p>
+            <p>The dividing of a Verſe into its ſeveral Feet, is called ſcan<g ref="char:EOLhyphen"/>ning, as,</p>
+            <q>Armă vĭrūm<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> cănō Trōjae quī prīmŭs ăb ōrīs. <bibl>Virg.</bibl>
+            </q>
+            <p>In ſcanning there be four things to be conſidered, viz. 1. Synaloepha, which is the cutting off of a Vowel or Dip<g ref="char:EOLhyphen"/>thong
+<pb n="2" facs="tcp:36730:8"/> at the end of a word, when the word following begins with a Vowel or Dipthong, as vita eſt, or vitae aeternae, will in ſcanning be vit' eſt, and vit' aeternae, (a) and (ae) being cut off by Synaloepha.</p>
+            <p>* Sometimes, in imitation of the Greeks, Synaloepha is omit<g ref="char:EOLhyphen"/>ted, as,</p>
+            <lg>
+               <l>Fōntĕ Mĕd<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſeo &amp; Hyānteā Agănīppe,</l>
+               <l>Nūbĭbŭs eſſe ſolet, āut Pūrpŭrĕae Aūrōrae. <note place="margin">Ovid.</note>
+               </l>
+            </lg>
+            <p>And then in imitation of them, the long Vowel or Dipthong that ends the ſormer word, may be made ſhort, as</p>
+            <lg>
+               <l>Inſŭae Ionĭo īn magnō quās diră Cĕlenō</l>
+               <l>Credĭmŭs? ān quĭ ămānt, īpsī ſibi ſomnia fingunt.</l>
+            </lg>
+            <p>The Interjections, heu alas! and O, oh! are never cut off, as</p>
+            <q>Te Corydōn O Alēxĭ trăhīt ſŭă quēmquĕ vŏlūptās. <bibl>Virg.</bibl>
+            </q>
+            <p>2. Eclipſis, which is che cutting off of (m) with the foregoing Vowel at the end of a word, when the word following begins with a Vowel or Dipthong, as, Monſtrum horrendum informe, in ſcanning will be, Monſtr' horrend' informe.</p>
+            <p>* Eclipſis is ſometimes, but very rarely omitted, as</p>
+            <lg>
+               <l>Nam qūod flūvĭdŭm eſt e levĭbŭs āt<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> rŏtundīs. <note place="margin">Lucret.</note>
+               </l>
+               <l>Circŭm ăgī qūendam vŏlŏ vīsĕrĕ nŏn tĭbĭ nōtūm.<note place="margin">Mart.</note>
+               </l>
+            </lg>
+            <p>3. Synoereſis, which is the contraction of two Syllables into one, as alvaria for alvearia, Beehives; under which thoſe words, Dii, Diis, &amp;c, rankt by Lilly under Synaloepha, ſeem to me to be more regularly comprehended.</p>
+            <p>*4 Diaereſis, which is the diſſolving of one Syllable into two, as evoluiſſe made to be a word of five ſyllables, inſtead of evol<g ref="char:EOLhyphen"/>viſſe ſo have unfolded, which has but four.</p>
+            <p>We ſhall at preſent treat of but three ſorts of Verſes, namely, Hexameter, Pentameter and Hypermeter.</p>
+            <pb n="3" facs="tcp:36730:8"/>
+            <p>An Hexameter (which is likewiſe call'd an Heroick or Long) Verſe conſiſts of ſix feet, Spondees and Dactyls.</p>
+            <p>* But ſometimes a Proceleuſmatick is uſed inſtead of a Dactyl, and ſometimes an Anapeſt, as</p>
+            <lg>
+               <l>Tityrĕ pāſcentēs ā flūmĭnĕ rĕjĭcĕ căpēllās.</l>
+               <l>Flŭvĭōrūm Rex Erĭdănūs cāmpōſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> pĕr ōmnēs. <note place="margin">Virg.</note>
+               </l>
+            </lg>
+            <p>The four firſt feet are either Spondees or Dactyls, or both, the fifth moſt commonly a Dactyl, the laſt always a Spondee, as,</p>
+            <lg>
+               <l>Tityrĕ tū pătŭlae rĕcŭbāns ſūb tēgmĭnĕ fāgi. <note place="margin">Virg.</note>
+               </l>
+               <l>Cōnſederĕ dŭcēs, &amp; vūlgī ſtāntĕ cŏrōnā.</l>
+               <l>Perq, hyĕmes aeſtūſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> &amp; ĭnaequāles aūtūmnōs. <note place="margin">Ovid.</note>
+               </l>
+            </lg>
+            <p>An Elegiac (called alſo a Pentameter or ſhort) Verſe conſiſts of two Penthemimers.</p>
+            <p>A Penthemimer conſiſts of two feet and a long ſyllable.</p>
+            <p>The feet of the firſt Penthemimer may be either Dactyls or Spondees, or both; Thoſe of the laſt Penthemimer, are alwayes Dactyls, as,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Ad vădă Meāndri</cell>
+                     <cell>cōncĭnĭt ālbŭs olor. <note place="margin">Ovid.</note>
+                     </cell>
+                  </row>
+                  <row>
+                     <cell>Hibernae pretium</cell>
+                     <cell>ſic mĕrŭērĕ rŏſae.</cell>
+                  </row>
+                  <row>
+                     <cell>Ut vĭdĕatŭr ăpis</cell>
+                     <cell>nectărĕ claūſa ſŭō</cell>
+                  </row>
+                  <row>
+                     <cell>Cōmmūnis nōbrs</cell>
+                     <cell>lectis &amp; ūnŭs ĕrāt. <note place="margin">Mart.</note>
+                     </cell>
+                  </row>
+               </table>
+            </p>
+            <p>The laſt ſyllable of theſe Verſes is alwayes long.</p>
+            <p>* An Hypermeter Verſe, is a Verſe having one ſyllable more than ordinary, which alwayes endeth in a Vowel, Dipthong, or (m), which laſt ſyllable is drowned in the following Verſe, which alwayes begins with a Vowel or Dipthong, as</p>
+            <lg>
+               <l>Jām<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ĭtĕr ēmēnſi, tūrrēs &amp; tēctă Lătīnōrum</l>
+               <l>Ardŭa ce<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ebānt jŭvĕn<gap reason="illegible" resp="#MURP" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s, m<gap reason="illegible" resp="#MURP" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ōqŭeſŭbibant. <note place="margin">Virg.</note>
+               </l>
+            </lg>
+            <p>where (<gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>) in Latinorum is out off, and drowned in (ar<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>a) the firſt word of the following Verſe.</p>
+            <pb n="4" facs="tcp:36730:9"/>
+            <p>The Quantities of firſt and middle ſyllables of words are to be known ten wayes, 1. By Poſition. 2. By a Vowel before a Vowel. 3. By Dipothong. 4. By Derivation. 5. By Compoſition. 6. By Prepoſition. 7. By Rule. 8. By Example or Authority. 9. By the encreaſing of the Genitive Caſe. 10. By the Analogy of the Conjugation.</p>
+            <p>1. Poſition is, when a Vowel comes beſore two Conſonants, or a double one.</p>
+            <p>Poſition makes a ſyllable long.</p>
+            <p>Poſition is twofold, commonly uſed, and ſeldomly uſed.</p>
+            <p>Poſition commonly uſed is fourfold, firſt, when a Vowel comes before two or more Conſonants, as, ōmnis all, ādſpuo to ſpit up<g ref="char:EOLhyphen"/>on, ſecondly, before the ſame Conſonant doubled, as āddo to add. Thirdly, Before a Conſonant at the end of a word, the word fol<g ref="char:EOLhyphen"/>lowing beginning with another Conſonant, as, sic dixit, ſo he ſaid, or laſtly, before a double Conſonant, as ējus of him, āxis an axletree, as,</p>
+            <lg>
+               <l>Intēndēnſ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> mānūs pāſſ is ſŭrĭbūndă căpīllis</l>
+               <l>Hic īntēr denſas cŏrylōs mŏdŏ nām<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> gĕmellōs</l>
+               <l>Quām reſpōnſá Dĕūm Trōjānă<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> fātă rĕtexī.</l>
+            </lg>
+            <p>But in ſome compound words (j) is common, as rejicio to caſt away, in others alwayes ſhort, as quadrĭjugus drawn with four horſes.</p>
+            <p>* The leſs uſual Poſition is when a word endeth in a ſhort Vowel, and the word following begins with two or more Conſo<g ref="char:EOLhyphen"/>nants; which ſometimes makes that ſyllable long, as,</p>
+            <lg>
+               <l>Fērtĕ cĭtī fērrūm, dătĕ tēlā, ſcāndĭtĕ mūrōs. <note place="margin">Virg.</note>
+               </l>
+               <l>Quīd glădĭūm dēmēns Rōmānā ſtrīngĭs ĭn ōrā?</l>
+            </lg>
+            <p>But moſt commonly 'tis not taken notice of, as,</p>
+            <q>Rēddātūr ſi pūgnă trĭplex pāſtōrĭs Ibērī.</q>
+            <p>To Poſition's making ſyllables long, there are theſe exceptions. 1. If a Vowel come before a Mute, and a Liquid in the ſame
+<pb n="5" facs="tcp:36730:9" rendition="simple:additions"/> word, it is ſometimes common, (that is, either long or ſhort,) as, ătlas, pătris of a Father; which ſyllable, if it be the laſt ſyl<g ref="char:EOLhyphen"/>lable ſave one, in a word of more then two ſyllables, is alwayes pronounc'd ſhort in Proſe, as, arbĭtror I ſuppoſe.</p>
+            <p>* 2. Sometimes the Latines in imitation of the Greeks, make (us) ſhort at the end of a word, though the word following begin with a Conſonant, as,</p>
+            <q>Vicĭt Olympĭa nūnc ſenĭō cōnfectŭs quĭeſcit.</q>
+            <p>3 The antepenultima, or laſt ſyllable ſave two, of Polymne<g ref="char:EOLhyphen"/>ſtor, is ſhort, of Clytemneſtra common, and the penultima, or laſt ſyllable ſave one, of Smarăgdus an Emerald.</p>
+            <lg>
+               <l>Biſtŏnĭis hăbĭtātă vĭrīs, Pŏlymnēſtŏrĭs īllīc.</l>
+               <l>Vādĭt ăd ārtĭficēm dirae Pōlymnēſtŏră caedis</l>
+               <l>Tē ſcĕlūs, ācceptō Thrāces Pŏlymnēſtŏrĭs āurō.</l>
+            </lg>
+            <p>II. A Vowel before a Vowel in the ſame word, is ſhort.</p>
+            <p>I. Except in Greek words, where 'tis moſt commonly long, as,</p>
+            <q>Cūm poſŭit jūſſam phoeboeīs ūrbēm.</q>
+            <p>2. Except Adjectives, ending in three Vowels, deriv'd of Greek Proper Names, have the ſirſt of them alwayes long, and the ſecond alwayes ſhort, as,</p>
+            <q>Tū quŏquĕ Iīttŏrĭbŭs nōſtrīs Aenēĭă nūtrīx.</q>
+            <p>3. Except the Genitive and Dative Caſes ſingular of Nouns of the fifth Declenſion, when (e) comes between two (i's) as Genitivo facieī of a face, Dativo faciei to a face; But if there goes no (i) immediately before the (e), 'tis ſhort.</p>
+            <p>* Though Lucretius makes the (e) even in thoſe words long too. as, fidei of or to faith.</p>
+            <p>4. Except in Hebrew, and other Forreign words, when one vowel comes before another, 'tis uſually common, as, Iſrăel, Jŏannes.</p>
+            <p>5. Except the laſt ſyllable ſave one, of the Genitive Caſes Sin<g ref="char:EOLhyphen"/>gular,
+<pb n="6" facs="tcp:36730:10"/> of Nouns and Pronouns in (ius), which is common, as unius of one; (which Syllable is alwayes pronounced long in Proſe) But in alterĭus of one of the two, that ſyllable is alwayes ſhort; and in alius of another, 'tis alwayes long, to diſtinguiſh it from the Nominative alĭus.</p>
+            <p>6. Except fi in fio to be made or done, which is alwayes long, throughout all Moods and Tenſes, unleſs when both (e) and (r) follow, as,</p>
+            <q>Omnĭa jām fiēnt, fierī quae pōſſe nĕgābām.</q>
+            <p>7. Except in the Interjections, Ohe, hold! and eheu, alas! which are alwayes long.</p>
+            <p>* 8. Except in Dipthong diſſolv'd, as in pictāi for pictae, terrāi for terrae of the earth, which are long, as,</p>
+            <q>Dīvēs ŏpūm, dīvēs pīctāī veſtĭs &amp; āuri.</q>
+            <p>III. All Dipthongs are long, except a Vowel follow, as, aū<g ref="char:EOLhyphen"/>rum gold, praeeo to go before.</p>
+            <p>IV. Derivation. Derivatives retain the Quantities of their Primitives, as tĭmor fear, of tĭmeo. to fear.</p>
+            <p>1. Except ſome words which make thoſe ſyllables long, which in their Primitives are ſhort, as,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Cēritus diſtracted.</cell>
+                     <cell rows="26">of</cell>
+                     <cell>Cĕres the Goddeſs of corn and til<g ref="char:EOLhyphen"/>lage.</cell>
+                  </row>
+                  <row>
+                     <cell>Chīus belonging to Chios.</cell>
+                     <cell>Chĭos, an Iſle, whence comes Malmſey, &amp;c.</cell>
+                  </row>
+                  <row>
+                     <cell>Fēralis lamentable, together with its de<g ref="char:EOLhyphen"/>rivatives and compounds,</cell>
+                     <cell>Fĕrus wild.</cell>
+                  </row>
+                  <row>
+                     <cell>Fōmentum an aſſwagement,</cell>
+                     <cell>Fŏveo to cheriſh.</cell>
+                  </row>
+                  <row>
+                     <cell>Fōmes fewel, together with their deri<g ref="char:EOLhyphen"/>vatives and compounds.</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Frūges fruits, together with its deriva<g ref="char:EOLhyphen"/>tives and compounds.</cell>
+                     <cell>Frŭor to enjoy.</cell>
+                  </row>
+                  <pb n="7" facs="tcp:36730:10"/>
+                  <row>
+                     <cell>Hūmanus humane, with its derivatives and compounds.</cell>
+                     <cell>Hŏmo a man.</cell>
+                  </row>
+                  <row>
+                     <cell>Imbecillis, Imbēcillus weak, with its de<g ref="char:EOLhyphen"/>rivatives and compounds.</cell>
+                     <cell>Băcillum a ſtaff.</cell>
+                  </row>
+                  <row>
+                     <cell>Jūcundus pleaſant.</cell>
+                     <cell>Jŭvo to delight or help.</cell>
+                  </row>
+                  <row>
+                     <cell>Jūmentum a labouring beaſt, with their derivatives and compounds,</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Jūnior younger</cell>
+                     <cell>Jŭvenis young.</cell>
+                  </row>
+                  <row>
+                     <cell>Jūpiter Saturn's Son</cell>
+                     <cell>Jŭvo to help.</cell>
+                  </row>
+                  <row>
+                     <cell>Lex legis a law, with its derivatives and compounds.</cell>
+                     <cell>Lĕgo to read.</cell>
+                  </row>
+                  <row>
+                     <cell>Māceries a ſoaking in water, with its de<g ref="char:EOLhyphen"/>rivatives and compounds.</cell>
+                     <cell>Măcer lean.</cell>
+                  </row>
+                  <row>
+                     <cell>Mōbilis moveable, with its derivatives and compounds,</cell>
+                     <cell>Mŏveo to move.</cell>
+                  </row>
+                  <row>
+                     <cell>Nōnus the ninth, with its derivatives and compounds.</cell>
+                     <cell>Nŏvem nine.</cell>
+                  </row>
+                  <row>
+                     <cell>Pēdor the ſtink of the feet,</cell>
+                     <cell>Pes pĕdis a foot.</cell>
+                  </row>
+                  <row>
+                     <cell>Pēnuria want,</cell>
+                     <cell>Pĕnus proviſion.</cell>
+                  </row>
+                  <row>
+                     <cell>Rex regis a King, with its derivatives and compounds,</cell>
+                     <cell>Rĕgo to Rule.</cell>
+                  </row>
+                  <row>
+                     <cell>Sēcius leſs,</cell>
+                     <cell>Sĕcus otherwiſe.</cell>
+                  </row>
+                  <row>
+                     <cell>Sēdes, ſedile a ſeat, with their derivatives and compounds.</cell>
+                     <cell>Sĕdeo to ſit.</cell>
+                  </row>
+                  <row>
+                     <cell>Vōmes vōmis a plough-ſhare.</cell>
+                     <cell>Vŏmo to caſt up.</cell>
+                  </row>
+                  <row>
+                     <cell>Vox vōcis a word or voice,</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Vōcalis loud,</cell>
+                     <cell> </cell>
+                  </row>
+                  <row>
+                     <cell>Vōcula a little voice.</cell>
+                     <cell>Vŏco to call.</cell>
+                  </row>
+                  <row>
+                     <cell>Vōcifero to cry aloud, with its deriva<g ref="char:EOLhyphen"/>tives.</cell>
+                  </row>
+               </table>
+            </p>
+            <pb n="8" facs="tcp:36730:11"/>
+            <p>2. Except ſome words, which make thoſe ſyllables ſhort, which the Primitives make long, as,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>ārena ſand, ariſta the beard of an ear of Corn, with their derivatives and com<g ref="char:EOLhyphen"/>pounds.</cell>
+                     <cell rows="20">of</cell>
+                     <cell>ăreo to be dry.</cell>
+                  </row>
+                  <row>
+                     <cell>Dĭcax talkative, with its derivatives and compounds.</cell>
+                     <cell>Dīco to ſpeak.</cell>
+                  </row>
+                  <row>
+                     <cell>Dĭſertus eloquent, with its derivatives and compounds.</cell>
+                     <cell>Differo to diſ<g ref="char:EOLhyphen"/>courſe.</cell>
+                  </row>
+                  <row>
+                     <cell>Dux dŭcis a Captain, with its deriva<g ref="char:EOLhyphen"/>tives and compounds.</cell>
+                     <cell>Dūco to lead.</cell>
+                  </row>
+                  <row>
+                     <cell>Fatuus a fool, with its derivatives and compounds.</cell>
+                     <cell>Fāri to ſpeak.</cell>
+                  </row>
+                  <row>
+                     <cell>Fides faith, with its derivatives and com<g ref="char:EOLhyphen"/>pounds; but infidus unfaithful, with its derivatives, are long.</cell>
+                     <cell>Fīo to be made.</cell>
+                  </row>
+                  <row>
+                     <cell>Frăgor a craſh, frăgilis frail, with their derivatives and compounds.</cell>
+                     <cell>Frāngo to break.</cell>
+                  </row>
+                  <row>
+                     <cell>Gĕnui I have begotten, gĕnitum to be<g ref="char:EOLhyphen"/>get, with their derivatives and com<g ref="char:EOLhyphen"/>pounds.</cell>
+                     <cell>Gīgno to beget.</cell>
+                  </row>
+                  <row>
+                     <cell>Lŭcerna a candle, with its derivatives.</cell>
+                     <cell>Lūceo to ſhine.</cell>
+                  </row>
+                  <row>
+                     <cell>Mŏleſtus troubleſome, with its deriva<g ref="char:EOLhyphen"/>tives and compounds.</cell>
+                     <cell>Mōles a trouble<g ref="char:EOLhyphen"/>ſome buſineſs.</cell>
+                  </row>
+                  <row>
+                     <cell>Năto to ſwim often, with its derivatives and compounds.</cell>
+                     <cell>No, navi, nātum to ſwim.</cell>
+                  </row>
+                  <row>
+                     <cell>Nŏto to mark, with its derivatives and compounds.</cell>
+                     <cell>Noſco, nōtum to know.</cell>
+                  </row>
+                  <row>
+                     <cell>ŏdium hatred, with its derivatives and compounds.</cell>
+                     <cell>ōdi I hate.</cell>
+                  </row>
+                  <row>
+                     <cell>Pĕnitus throughly,</cell>
+                     <cell>Pēne almoſt</cell>
+                  </row>
+                  <row>
+                     <cell>Pŏſui I have put, pŏſitum to put, with their derivatives and compounds.</cell>
+                     <cell>Pōno to put.</cell>
+                  </row>
+                  <row>
+                     <cell>Pronŭba a bridemaid, with other deriva<g ref="char:EOLhyphen"/>tives and compounds,</cell>
+                     <cell>Nūbo to marry.</cell>
+                  </row>
+                  <pb n="9" facs="tcp:36730:11"/>
+                  <row>
+                     <cell>Sagax quick of apprehenſion, with its de<g ref="char:EOLhyphen"/>rivatives and compounds,</cell>
+                     <cell>Sāgio to perceive quickly.</cell>
+                  </row>
+                  <row>
+                     <cell>Stăbilis ſtable, ſtătio a ſtation, with their derivatives and compounds,</cell>
+                     <cell>Sto, ſtāre to ſtand.</cell>
+                  </row>
+                  <row>
+                     <cell>Sopor a ſound ſleep, with its derivatives and compounds,</cell>
+                     <cell>Sōpio to lay aſleep</cell>
+                  </row>
+                  <row>
+                     <cell>Vĭtium a vice, with its derivatives and compounds.</cell>
+                     <cell>Vito to ſhun or a<g ref="char:EOLhyphen"/>void.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>3. Except words which make thoſe ſyllables common, which in the Primitives are either only long, or only ſhort, as quŏtĭ<g ref="char:EOLhyphen"/>die dayly, of quōtō die? what day? viĕtum to bind, the Su<g ref="char:EOLhyphen"/>pine of vieo viēvi. Abſtĕmius abſtinent, of tēmetum ſtrong wine.</p>
+            <p>V. Compoſition. Compound words have the ſame quantity that the ſimple words have, as, clārus famous, praeclārus very famous.</p>
+            <p>VI. Prepoſition. Theſe Prepoſitions á, de, é, pro, and theſe not uſed but in Compoſition, called inſeparable Prepoſitions, be<g ref="char:EOLhyphen"/>cauſe they are never uſed alone, or ſeparately, di, co, ſe, un<g ref="char:EOLhyphen"/>leſs a vowel follow, are long.</p>
+            <p>1. Except prŏ, which is common in theſe,</p>
+            <list>
+               <item>Prŏcumbo to lye down flat.</item>
+               <item>Prŏfeſſus that hath confeſſed openly.</item>
+               <item>Prŏfluus which floweth continually.</item>
+               <item>Prŏfugio to fly, or run away,</item>
+               <item>Prŏſugus a vagabond.</item>
+               <item>Prŏfundo to pour out in abundance.</item>
+               <item>Prŏfundus deep.</item>
+               <item>Prŏpago to propagate.</item>
+               <item>Prŏpello to drive far away.</item>
+               <item>Prŏpino to drink to.</item>
+            </list>
+            <pb n="10" facs="tcp:36730:12"/>
+            <p>And ſhort in theſe.
+<list>
+                  <item>Prĕcella a ſtorm.</item>
+                  <item>Prŏfanus profane.</item>
+                  <item>Prŏfari to ſpeak out.</item>
+                  <item>Prŏfecto truly.</item>
+                  <item>Prŏfeſtus not holy.</item>
+                  <item>Prŏficiſcor to go.</item>
+                  <item>Prŏfiteor to profeſs.</item>
+                  <item>Prŏnepos a Nephews Son.</item>
+                  <item>Prŏpago a ſtock.</item>
+                  <item>Prŏpero to make haſte.</item>
+                  <item>Prŏph<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ta a Prophet.</item>
+                  <item>Prŏpola a huckſter.</item>
+                  <item>Prŏtervus ſawcy.</item>
+               </list>
+            </p>
+            <p>And in all words written with the Greek ſhort (o) <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap>.</p>
+            <p>2. Except (di) is ſhort in dĭrimo to take away, and dĭſertus eloquent.</p>
+            <p>All other Prepoſitions are ſhort, if not hindred by Poſition.</p>
+            <p>Except (re) in rĕficit he refreſheth, and rĕperi I found by chance, which is common.</p>
+            <p>VII Rule.</p>
+            <p>1. Every Praeterperfect Tenſe of but two ſyllables, has the firſt long, as legi I have read, except in theſe ſix,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Fĭdi</cell>
+                     <cell rows="3">I have</cell>
+                     <cell>cloven.</cell>
+                  </row>
+                  <row>
+                     <cell>Bĭbi</cell>
+                     <cell>drank.</cell>
+                  </row>
+                  <row>
+                     <cell>Dĕdi</cell>
+                     <cell>given.</cell>
+                  </row>
+                  <row>
+                     <cell>Scĭdi</cell>
+                     <cell rows="3">I have</cell>
+                     <cell>cut.</cell>
+                  </row>
+                  <row>
+                     <cell>Stĕti</cell>
+                     <cell>ſtood.</cell>
+                  </row>
+                  <row>
+                     <cell>Tŭli</cell>
+                     <cell>ſuffered.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>which are ſhort,</p>
+            <p>2. Praeterperfect Tenſes, that encreaſe a ſyllable at the begin<g ref="char:EOLhyphen"/>ning, make that ſyllable ſhort, as ſpondeo to be ſurety for, ſpŏ<g ref="char:EOLhyphen"/>ſpondi: And if Poſition hinder not, they make the middle ſylla<g ref="char:EOLhyphen"/>ble ſhort too, as pello to drive away, pepŭli: Except pepedi I have broken wind backward, and cecĭdi I have cut, to diſtinguiſh it from cecĭdi I have fallen; in which 'tis long.</p>
+            <p>3. Praeterperfect Tenſes ending in (vi) make the foregoing ſyllable long<g ref="char:punc">▪</g> as quaesivi I have ſought for.</p>
+            <p>4. Supins of but two ſyllables, have the firſt ſyllable long, as mōtum to move.</p>
+            <pb n="11" facs="tcp:36730:12"/>
+            <p>1. Exc.
+<table>
+                  <row>
+                     <cell>Quĭtum</cell>
+                     <cell rows="7">to</cell>
+                     <cell>may or can.</cell>
+                  </row>
+                  <row>
+                     <cell>Sĭtum</cell>
+                     <cell>permit.</cell>
+                  </row>
+                  <row>
+                     <cell>Lĭtum</cell>
+                     <cell>dawb.</cell>
+                  </row>
+                  <row>
+                     <cell>Rŭtum</cell>
+                     <cell>ruſh.</cell>
+                  </row>
+                  <row>
+                     <cell>Rătum</cell>
+                     <cell>ſuppoſe.</cell>
+                  </row>
+                  <row>
+                     <cell>Datum</cell>
+                     <cell>give.</cell>
+                  </row>
+                  <row>
+                     <cell>Sătum</cell>
+                     <cell>ſow.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">Cĭtum of cieo to trouble.</cell>
+                  </row>
+                  <row>
+                     <cell cols="2">ĭtum to go, wi<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>h its com<g ref="char:EOLhyphen"/>pounds, except ambitum to compaſs.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>Which are ſhort.</p>
+            <p>2. Except Statum to ſtand, which is common.</p>
+            <p>Theſe Rules may be learnt by Children before they enter up<g ref="char:EOLhyphen"/>on the Moods and Tenſes, or whileſt they are in them.</p>
+            <p>5. In the Preſent and Preterimperfect Tenſes of the Subjun<g ref="char:EOLhyphen"/>ctive Mood of both Voices, and in the Preterpluperfect Tenſe of the ſame Mood of the Active Voice, (a) and (e) before (m) or (t), or between two (r's), is long, as doceāmus, doceātis, le<g ref="char:EOLhyphen"/>gerēmus, legeretis, legātur, legeremur, legereris vel legerere.</p>
+            <p>6. In the firſt perſon Plural of the Indicative Mood of the Active voice (i) is ſhort, as amavĭmus.</p>
+            <p>7. In the Praeterpluperfect Tenſe of the Indicative Mood of the Active voice, the Praeterperfect and Future Tenſes of the Subjunctive Mood, of the ſame voice, (e) before (r) is alwayes ſhort, as, amavĕram, amavĕrim, amavĕro. As alſo, in all Ten<g ref="char:EOLhyphen"/>ſes of ſum, and its compounds, as ĕram, fuĕram, ĕro, fuĕrim, fuĕro, adĕram I was preſent, adfuĕram, adĕro, adfuĕrim, ad<g ref="char:EOLhyphen"/>fuĕro.</p>
+            <p>VIII Example or Authority, which is only the example or au<g ref="char:EOLhyphen"/>thority of good Writers, viz. of thoſe Romans which were counted Authentick, when the Latin Tongue was ſpoken in Rome.</p>
+            <p>IX. The encreaſing of the Genitive Caſe, which, as to com<g ref="char:EOLhyphen"/>mon Nouns, may be had from Propria quae maribus; ſaving that ſome Monoſyllables, which are reckon'd to be under the ſecond Special Rule, have the firſt Syllable in the oblique Caſes, ſhort, as,</p>
+            <p>
+               <table>
+                  <row>
+                     <cell>Bos an <hi>Oxe,</hi> Bull or Cow,</cell>
+                     <cell rows="16">Gen.</cell>
+                     <cell>Bŏvis.</cell>
+                  </row>
+                  <row>
+                     <cell>Crux a croſs.</cell>
+                     <cell>Crŭcis.</cell>
+                  </row>
+                  <row>
+                     <cell>Dux a Captain,</cell>
+                     <cell>Dŭcis.</cell>
+                  </row>
+                  <row>
+                     <cell>Grex a flock,</cell>
+                     <cell>Grĕgis.</cell>
+                  </row>
+                  <row>
+                     <cell>Lar a houſhold god.</cell>
+                     <cell>Lăris.</cell>
+                  </row>
+                  <pb n="12" facs="tcp:36730:13"/>
+                  <row>
+                     <cell>Mas the Male-kind,</cell>
+                     <cell>Măris.</cell>
+                  </row>
+                  <row>
+                     <cell>Nux a nut,</cell>
+                     <cell>Nŭcis.</cell>
+                  </row>
+                  <row>
+                     <cell>Pes a foot,</cell>
+                     <cell>Pĕdis.</cell>
+                  </row>
+                  <row>
+                     <cell>Phryx a Phrygian,</cell>
+                     <cell>Phrygis.</cell>
+                  </row>
+                  <row>
+                     <cell>Pix pitch,</cell>
+                     <cell>Pĭcis.</cell>
+                  </row>
+                  <row>
+                     <cell>Sal ſalt,</cell>
+                     <cell>Sălis.</cell>
+                  </row>
+                  <row>
+                     <cell>Scobs ſanduſt,</cell>
+                     <cell>Scŏbis.</cell>
+                  </row>
+                  <row>
+                     <cell>Scrobs a ditch,</cell>
+                     <cell>Scrŏbis.</cell>
+                  </row>
+                  <row>
+                     <cell>Stips wages,</cell>
+                     <cell>Stĭpis.</cell>
+                  </row>
+                  <row>
+                     <cell>Vas a ſurety.</cell>
+                     <cell>Vădis.</cell>
+                  </row>
+                  <row>
+                     <cell>Vir a man,</cell>
+                     <cell>Vĭri.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>
+               <table>
+                  <row>
+                     <cell>ŏpis</cell>
+                     <cell rows="3">from the obſolete Nominative Caſe.</cell>
+                     <cell>Ops help.</cell>
+                  </row>
+                  <row>
+                     <cell>Prĕcis</cell>
+                     <cell>Prex prayer.</cell>
+                  </row>
+                  <row>
+                     <cell>Vĭcem</cell>
+                     <cell>Vix a turn.</cell>
+                  </row>
+               </table>
+            </p>
+            <p>And mulier a woman, in the oblique caſes is common.</p>
+            <p>Theſe Rules may likewiſe be learnt by Children before they enter upon the Moods and Tenſes, or whileſt they are in them.</p>
+            <p>X. The Analogy of the Conjugation.</p>
+            <p>1. In Verbs of the firſt Conjugation, (a) is long, as, amāmus, amābam, &amp;c. except in do to give, together with thoſe com<g ref="char:EOLhyphen"/>pounds of it, that are of the firſt Conjugation, as dăbo I will give, circumdăbo I will compaſs about.</p>
+            <p>2. In Verbs of the ſecond Conjugation (e) is long, as docēmus. Except when a Vowel follows. as, docĕamus, it is ſhort.</p>
+            <p>3. In verbs of the third Conjugation (i) and (e) are ſhort, as, legĭmus, legĭtis, legĕrem; except in the Preterimperfect and Fu<g ref="char:EOLhyphen"/>ture Tenſes of the Indicative Moods of both voices, where (e) is long, as legēbam, legēmus, legētur.</p>
+            <p>4. In verbs of the fourth Conjugation (i) is long, as audīmus, audītis.</p>
+            <p>1. Except when a Vowel follows, as, audĭam, for then 'tis ſhort.</p>
+            <p>2. Except in the Supins of eo to go, and queo to be able, to<g ref="char:EOLhyphen"/>gether with their derivatives and compounds, as ĭtum to go,
+<pb n="13" facs="tcp:36730:13"/> adĭtum to go to, where 'tis ſhort; but one compound of eo, viz. ambio to compaſs, makes ambītum long.</p>
+            <p>Of all theſe ten wayes, no one meddles with the laſt ſyllables, but Poſition, Dipthong and Prepoſition.</p>
+            <p>The laſt Syllables we'll treat of according to their Alphabeti<g ref="char:EOLhyphen"/>cal order.</p>
+            <p>A.</p>
+            <p>Words ending in (a) are long,</p>
+            <p>1. Except the Adverb pută to wit, ită ſo, quiă becauſe, poſteă afterwards, which are ſhort.</p>
+            <p>2. Except contră againſt, which is common,</p>
+            <p>3. Except all caſes in (a), as, problemă a hard queſtion, tem<g ref="char:EOLhyphen"/>poră times, which are ſhort.</p>
+            <p>1. Except the Ablative caſes of the firſt Declenſion, as ab hâc muſa from a ſong, which are long; but eădem the Ablative caſe of idem, the ſame is common.</p>
+            <p>2. Except the Vocative caſes of Greek Nouns in (as) of the firſt Declenſion, as Vocativo Thomā O Thomas, which are ſometimes long.</p>
+            <p>3. Except Nouns of number in (gintă) which are common.</p>
+            <p>B,</p>
+            <p>Latin words in (b) are ſhort.</p>
+            <p>Hebrew words in (b), as Jōb, are long; but Jacŏb is common.</p>
+            <p>C.</p>
+            <p>Words ending in (c) are long;</p>
+            <p>1. Except nĕc neither, donĕc as long as, which are ſhort.</p>
+            <p>2. Except hĭc this, făc do thou, which are common.</p>
+            <p>D.</p>
+            <p>Words ending in (d) are ſhort.</p>
+            <p>E.</p>
+            <p>Words ending in (e) ar ſhort.</p>
+            <p>1. Except the Ablative caſes ſingular of the fifth Declenſion, as die in a day, together with thoſe Adverbs that are thence de<g ref="char:EOLhyphen"/>riv'd, as hodiē to day, which are long.</p>
+            <p>2. Except the ſecond perſon ſingular of the Imperative Mood, of the Active voice, of the ſecond Conjugation, as doce teach, which are long; but cavĕ beware, and reſpondĕ anſwer, are common.</p>
+            <q>
+               <pb n="14" facs="tcp:36730:14"/>Si q?āndō v<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nĭ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, r<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſpōndĕ; <bibl>Po<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>. Mart.</bibl>
+            </q>
+            <p>3. Except all Monoſyllables, which are long; except n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> whe<g ref="char:EOLhyphen"/>ther or no? ve or, and que and, at the ends of other words, the two firſt of which are ſhort, and the laſt common; and ſo is fere almoſt.</p>
+            <p>4. Except ferme almoſt, together with Adverbs derived of Adjectives in (us), as avide greedily, which are long; but bene well, and malĕ ill, are ſhort.</p>
+            <p>5. Except the Nominative, Dative, Vocative and Ablative caſes Singular, of Nouns of the Feminine Gender, of the firſt Declenſion, as Nominativo, Dativo, Vocativo, Ablativo Pene<g ref="char:EOLhyphen"/>lopē, which are long.</p>
+            <p>H.</p>
+            <p>Words ending in (h), if not cut off, are long, as, āh! alas! Joſeph, Lōth, Melchiſadech, but Judĭth is common.</p>
+            <p>I.</p>
+            <p>Words ending in (i) are long;</p>
+            <p>1. Except mihĭ to me, tibĭ to thee, ſibĭ to himſelf, to her ſelf, to it ſelf, or to themſelves, cuĭ to whom, quasĭ as though, ubĭ where, ibĭ there, which are common.</p>
+            <p>2. Except the Dative and Vocative caſes ſingular of Greek Nouns ending in (os) in the Genitive, as Dativo Phyllidĭ, Vo<g ref="char:EOLhyphen"/>cativo Phyllĭ, of Phyllis Phyllidos; as alſo, nisĭ unleſs, which are ſhort.</p>
+            <p>L.</p>
+            <p>Words ending in (l) are ſhort.</p>
+            <p>1. Except nīl nothing, ſāl ſalt, ſōl the ſun, which are long.</p>
+            <p>2. Except Forreign words, as Michael, which are long.</p>
+            <p>M.</p>
+            <p>* Words ending in (m), if the Eclipſis be omitted, are ſhort, as,</p>
+            <lg>
+               <l>Nām qūod flūvĭdŭm ēſtē Iēvĭbŭs ātquĕ rŏtūndīs. <note place="margin">Lucret.</note>
+               </l>
+               <l>Circŭm ăgī quēndām vŏlŏ vīſĕrĕ, nōn tĭbĭ nōtūm. <note place="margin">Mart.</note>
+               </l>
+            </lg>
+            <p>N.</p>
+            <p>Words ending in (n) are long;</p>
+            <pb n="15" facs="tcp:36730:14"/>
+            <p>1. Except forſăn perhaps, forſităn by chance, ăsn whether or no, tamĕn yet, attamĕn notwithſtanding, veruntamĕn notwith<g ref="char:EOLhyphen"/>ſtanding, which are ſhort.</p>
+            <p>2. Except words ending in (in) compounded of the Prepoſiti<g ref="char:EOLhyphen"/>on (in), as exĭn afterwards, which are ſhort.</p>
+            <p>3. Except words that loſe a letter by Apocope, as mĕn'! what me! which are ſometimes ſhort.</p>
+            <p>4. Except words of the third ſpecial Rule in (en) which make (ĭnis) in the Genitive Caſe, as carmĕn carmĭnis a Verſe; which are ſhort.</p>
+            <p>5. Except Greek Nouns in (on) written by their ſhort (o), as Peliŏn, Caucaſon; which are ſhort.</p>
+            <p>6. Except Greek Accuſative caſes in (in) by (i), as Alexĭn, which are ſhort.</p>
+            <p>7. Except Greek Accuſative caſes in (yn) by (y), as Ityn, which are ſhort.</p>
+            <p>8. Except Greek Accuſative caſes in (an) of Nominative caſes in (a), as Aeginăn of Aegina; which are ſhort.</p>
+            <p>O.</p>
+            <p>Words ending in (o) are common.</p>
+            <p>1. Except Oblique caſes in (o) as Dativo Magiſtrō, Ablativo Magiſtrō, which are alwayes long; but eŏdem the Ablative caſe of idem the ſame, is common.</p>
+            <p>2. Except Adverbs deriv'd of Adjectives, as falſō falſely, of falſus falſe, which are long; but ſedulō carefully, mutuŏ mutu<g ref="char:EOLhyphen"/>ally, crebrŏ often, ſerŏ too late, citŏ quickly, which are com<g ref="char:EOLhyphen"/>mon.</p>
+            <p>3. Except all Monoſyllables, as dō I give; which are long; to which add pondō a pound weight.</p>
+            <p>4. Except Greek words ending in their long (o omega), as Ddō, Herō, which are long.</p>
+            <p>5. Except modŏ ſo that, with its compounds, as dummodŏ ſo that, which are common.</p>
+            <p>R.</p>
+            <p>Words ending in (r) are ſhort.</p>
+            <p>1. Except Far all manner of Corn, lār a houſhold god, nār a river running into Tyber, vēr the ſpring, fūr a thief, cūr why? pār like, with its compounds, which are long.</p>
+            <pb n="16" facs="tcp:36730:15"/>
+            <p>2. Except Greek words ending in (er), with their long (e, eta) as aethēr the sky, which are long; but matĕr a mother, is ſhort, and patĕr a father, is common.</p>
+            <p>3. Exeept cŏr a heart, vĭr a man, amŏr love, paritĕr likewiſe, which are common.</p>
+            <lg>
+               <l>Omnia vincit amōr, &amp; nos cedamus amori.</l>
+               <l>Oſtentans artem paritēr arcum<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſonantem.</l>
+            </lg>
+            <p>S. As.</p>
+            <p>Words ending in (as) are long.</p>
+            <p>1. Except Greek Nouns in (as), making their Genitive caſe Singular in (dis) or (dos) as Arcăs Arcadis, or Arcados, which are ſhort.</p>
+            <p>2. Except Greek Accuſative caſes Plural of Nouns increaſing in the Genitive caſe, as hos Heroăs, of Heros Herōis a Hero; which are ſhort.</p>
+            <p>Es.</p>
+            <p>Words ending in (es) are long.</p>
+            <p>1. Except the Nominative and Vocative caſes Singular of Nouns in (es) of the third ſpecial Rule, as milĕs, milĭtis a ſoul<g ref="char:EOLhyphen"/>dier, which are ſhort; but aries a ram, abiēs a fir-tree, pariēs a wall, Cerēs the Goddeſs of Corn, and the compounds of pes a foot, are long, except quadrupĕs that hath four feet, which is common.</p>
+            <p>2. Except ĕs the ſecond perſon ſingular of ſum I am, together with its compounds, as potĕs thou canſt, which are ſhort; to which add penĕs in the power.</p>
+            <p>3. Except Greek nouns of the Neuter gender, as cacoethĕs an ill cuſtom, and Greek Nominative, Accuſative and Vocative caſes Plural, as Nominativo hae Naiadĕs, Accuſativo has Naiadĕs, Vo<g ref="char:EOLhyphen"/>cativo ô Naiadĕs, Nymphs of the Fountains, which are ſhort.</p>
+            <p>Is.</p>
+            <p>Words ending in (is) are ſhort.</p>
+            <p>1. Except oblique caſes Plural in (is) as Dativo musīs, Abla<g ref="char:EOLhyphen"/>tivo musīs, which are long.</p>
+            <p>2. Except Nouns in (is), encreaſing long in the Genitive caſe, as Simoīs Simoēntis a River by Troy, which are long; to which add forīs out of doors.</p>
+            <pb n="17" facs="tcp:36730:15"/>
+            <p>3. Except all Monoſyllables, as glis a dormouſe, which are long; but ĭs he, bĭs twice, and the Nominative caſe quĭs who, are ſhort.</p>
+            <p>4. Except the ſecond perſons ſingular of Verbs, that make the laſt ſyllable ſave one of the ſecond perſon Plural long, as audis auditis, in the future tenſe of the Subjunctive Mood, audiverīs audiverītis, which are long; but neſcĭs thou knoweſt not, and poſſis thou canſt, are common.</p>
+            <p>5. Except ignĭs fire, ſanguĭs blood, erĭs thou ſhalt be, operĭs of a work, which are common.</p>
+            <p>Militia eſt operīs altera digna tui.</p>
+            <p>Os.</p>
+            <p>Words ending in (os) are long.</p>
+            <p>1. Except ŏs a bone, impŏs unable, exŏs without bones, which are ſhort.</p>
+            <p>2. Except Greek nouns written with their ſhort (o), as, chaŏs a confuſed heap, which are ſhort.</p>
+            <p>3. Except compŏs that hath obtained, which is common.</p>
+            <p>Us.</p>
+            <p>Words ending in (us) are ſhort.</p>
+            <p>1. Except Monoſyllables, as thūs frankincenſe, which are long.</p>
+            <p>2. Except all Greek Nouns ending in their Dipthong (<gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> ous) as Panthūs, which are long.</p>
+            <p>3. Except all nouns of the ſecond ſpecial Rule, as ſalŭs ſalūtis health, which are long; but palūs palūdis a marſh, is common.</p>
+            <p>4. Except all caſes of the fourth Declenſion ending in (us), ſave the Nominative and Vocative caſe ſingular, as huj us manūs, hae manūs, has manūs, ô manūs, which are long.</p>
+            <p>5. Except fultūs underpropped, fatigamūs we weary, pavi<g ref="char:EOLhyphen"/>dūs fearful, gravidūs great with child, dapibūs of dapĕs dainties, pectoribūs of pectus a breaſt, futilibūs of futilis inconſiderable, which are long.</p>
+            <lg>
+               <l>Auro non dapibūs oneratur menſa, miniſtri.</l>
+               <l>Nunquam futilibūs excanduit ignibus aether.</l>
+            </lg>
+            <pb n="18" facs="tcp:36730:16"/>
+            <p>6. Except genŭs a ſtock, and ſuccŭs juice, which are common.</p>
+            <p>Ys.</p>
+            <p>Words ending in (ys) are ſhort.</p>
+            <p>Except Tethys the Goddeſs of the ſea, which is common.</p>
+            <p>T.</p>
+            <p>Words ending in (t) are ſhort.</p>
+            <p>1. Except words that loſe a letter or ſyllable by Syncope, as petiĭt for petivit he ſought for, which are long.</p>
+            <p>2. Except aberāt he was abſent, perrupit he hath broken through, which are long.</p>
+            <p>3. Except neſcĭt he knoweth not, timăt he is afraid, ĭf he go<g ref="char:EOLhyphen"/>eth, ſolĕt he is wont, capŭt a head, which are common.</p>
+            <lg>
+               <l>Nubibus eſſe ſolet, aut purpureae Aurorae. <note place="margin">Ovid.</note>
+               </l>
+               <l>Nam tibi, Thymbre, capūt Evandrius abſtulit enſis. <note place="margin">Virg.</note>
+               </l>
+            </lg>
+            <p>U.</p>
+            <p>Words ending in (u) are long.</p>
+            <p>Y.</p>
+            <p>Words ending in (y), as Moly the herb all heal, are ſhort.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+         <div type="postscript">
+            <pb facs="tcp:36730:16" rendition="simple:additions"/>
+            <head>POSTSCRIPT.</head>
+            <p>IF any Gentleman ſhall Pleaſe to be ſo Candidly Generous as to let me know my Miſtakes, (for no Man is to plead exemption from fallibility) by leaving their Objections with Mr. <hi>Robert White;</hi> If I cannot give him good and reaſonable Solutions to his Scruples: In the next Impreſſion by my Thanks to my Friendly Monitor, and Correction of my Overſights, he ſhall find how much I hold my ſelf oblig'd to Him for undeceiving me; And that I am not ſo wedded to my own Opinion, as to maintain it right or wrong.</p>
+         </div>
+      </body>
+   </text>
+</TEI>
